@@ -17,5 +17,22 @@ Geospatial Analysis: The system categorizes sentiments based on geographical loc
 Deployment
 Local Server
 To host the application on a local server, follow these steps:
-git clone https://github.com/your-username/sentiment-analysis-for-crisis.git
+[git clone https://github.com/your-username/sentiment-analysis-for-crisis.git](https://github.com/TSTS09/Group4_AI-Final-Project_Sentiment-Analyser-for-Crisis-Management-Situations.git)https://github.com/TSTS09/Group4_AI-Final-Project_Sentiment-Analyser-for-Crisis-Management-Situations.git
+
+Install Dependencies
+
+Run the Application:
+streamlit run app.py
+
+Additional Configuration
+API Keys: If your sentiment analysis system relies on external APIs, make sure to configure and secure your API keys. Update the respective configuration files or environment variables.
+
+Data Sources: Customize the system to ingest data from relevant sources by updating the data processing scripts. Ensure that the data is cleaned and formatted appropriately for accurate sentiment analysis.
+
+
+Here is the video demonstration of our web application:
+
+
+
+
 
